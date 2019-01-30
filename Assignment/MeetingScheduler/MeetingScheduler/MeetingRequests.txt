@@ -1,0 +1,5 @@
+30/01/2019 09:00:00 1hrs Room 1 Adam, Declan
+30/01/2019 10:00:00 2hrs Room 1 Declan, Adam
+30/01/2019 09:00:00 1hrs Room 2 Declan, Adam
+01/02/2019 09:00:00 1hrs Room 1 Adam, Declan, Mehmet, Babak, Mike
+01/02/2019 11:00:00 1hrs Room 2 Babak, Declan, Adam, Mehmet, Mike
